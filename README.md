@@ -1,4 +1,4 @@
-### Olá Pessoas 👋🇧🇷
+### Olá Pessoas 👋
 
 # Ulyanov 🤓💻
 
