@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Ulyanov 💻
+# Ulyanov 💻:shipit:
 
 ![Ulyanov GitHub stats](https://github-readme-stats.vercel.app/api?username=Labashm&show_icons=true&theme=radical)
 
