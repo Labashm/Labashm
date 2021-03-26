@@ -1,6 +1,6 @@
 ### Olá Pessoas 👋
 
-# Ulyanov 💻:shipit:
+# Ulyanov 💻🤓
 
 
 ### 📊 Github Stats
