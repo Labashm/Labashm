@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 # Ulyanov 💻
 
-[![Twitch Badge](https://img.shields.io/twitch/status/loyux?style=social&link=https://www.twitch.tv/loyux)]
+![Twitch Badge](https://img.shields.io/twitch/status/loyux?style=social&link=https://www.twitch.tv/loyux)
