@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 # Ulyanov 💻
 
-![Ulyanov GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ulyanov GitHub stats](https://github-readme-stats.vercel.app/api?username=Labashm&show_icons=true&theme=radical)
 
